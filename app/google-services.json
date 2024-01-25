@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1094834868498",
+    "firebase_url": "https://proco-59768-default-rtdb.firebaseio.com",
+    "project_id": "proco-59768",
+    "storage_bucket": "proco-59768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094834868498:android:0450eb74d9f46ae590a3cb",
+        "android_client_info": {
+          "package_name": "com.hemil.proco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfXKYRQKQ6XTsHo8f0d_crBoBDhU5aqfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094834868498:android:2f819e47c183c52190a3cb",
+        "android_client_info": {
+          "package_name": "com.vhampcode.sehorefirematches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfXKYRQKQ6XTsHo8f0d_crBoBDhU5aqfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
